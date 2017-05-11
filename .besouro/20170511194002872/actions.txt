@@ -37,3 +37,4 @@ RefactoringAction 1494526863095 TestBowling.java REMOVE secondScore FIELD
 RefactoringAction 1494526870833 TestBowling.java ADD int secondTh FIELD
 RefactoringAction 1494526872908 TestBowling.java RENAME secondTh=>int secondThrow FIELD
 EditAction 1494527878254 TestBowling.java 314 1 2 1
+EditAction 1494527878722 BowlingGame.java 777 4 2 0
