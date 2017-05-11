@@ -19,3 +19,21 @@ RefactoringAction 1494526711355 TestBowling.java RENAME test()=>void testIfIsStr
 EditAction 1494526712743 TestBowling.java 175 1 1 0
 EditAction 1494526713478 BowlingGame.java 719 4 1 0
 EditAction 1494526713837 Frame.java 960 7 7 0
+RefactoringAction 1494526761327 TestBowling.java ADD Frame frame FIELD
+RefactoringAction 1494526797959 TestBowling.java ADD int first FIELD
+RefactoringAction 1494526801064 TestBowling.java RENAME first=>int firstScore FIELD
+RefactoringAction 1494526809347 TestBowling.java ADD int secondScore FIELD
+RefactoringAction 1494526817602 TestBowling.java REMOVE firstScore FIELD
+RefactoringAction 1494526821221 TestBowling.java REMOVE secondScore FIELD
+RefactoringAction 1494526825870 TestBowling.java ADD int firstScore FIELD
+RefactoringAction 1494526825870 TestBowling.java ADD int secondScore FIELD
+RefactoringAction 1494526836229 TestBowling.java RENAME frame=>pru Frame FIELD
+RefactoringAction 1494526842422 TestBowling.java RENAME Frame=>Frame frame FIELD
+RefactoringAction 1494526849133 TestBowling.java RENAME firstScore/2=>int firstTcore FIELD
+RefactoringAction 1494526852752 TestBowling.java RENAME firstTcore=>int firstT FIELD
+RefactoringAction 1494526854827 TestBowling.java RENAME firstT=>int firstThrow FIELD
+RefactoringAction 1494526859991 TestBowling.java REMOVE firstScore FIELD
+RefactoringAction 1494526863095 TestBowling.java REMOVE secondScore FIELD
+RefactoringAction 1494526870833 TestBowling.java ADD int secondTh FIELD
+RefactoringAction 1494526872908 TestBowling.java RENAME secondTh=>int secondThrow FIELD
+EditAction 1494527878254 TestBowling.java 314 1 2 1
