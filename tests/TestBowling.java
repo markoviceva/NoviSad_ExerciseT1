@@ -25,5 +25,7 @@ public class TestBowling {
 		frame=new Frame(firstThrow,secondThrow);
 		assertFalse(frame.isSpare());
 	}
+	
+	
 
 }
