@@ -43,7 +43,7 @@ public class TestBowling {
 		f.add(new Frame(firstThrow,secondThrow));
 		f.add(new Frame(firstThrow,secondThrow));
 		f.add(new Frame(firstThrow,secondThrow));
-		
+		f.add(new Frame(firstThrow,secondThrow));
 		
 		
 	}
