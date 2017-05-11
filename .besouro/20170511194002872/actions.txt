@@ -80,3 +80,6 @@ EditAction 1494529073591 TestBowling.java 1167 3 19 2
 UnitTestCaseAction 1494529078053 TestBowling.java FAIL
 UnitTestSessionAction 1494529078068 TestBowling.testIfIsMoreFrames FAIL
 EditAction 1494529087944 TestBowling.java 1208 3 20 2
+UnitTestCaseAction 1494529089957 TestBowling.java FAIL
+UnitTestSessionAction 1494529089957 TestBowling.java FAIL
+EditAction 1494529322882 TestBowling.java 916 3 21 2

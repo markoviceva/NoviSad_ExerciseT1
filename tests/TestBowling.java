@@ -32,19 +32,20 @@ public class TestBowling {
 	@Test (expected=BowlingException.class)
 	public void testIfIsMoreFrames(){
 		List<Frame> f = new ArrayList<Frame>();
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
-		f.add(new Frame(firstThrow,secondThrow));
+		frame=new Frame(firstThrow,secondThrow);
 		
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
+		f.add(frame);
 		
 	}
 
