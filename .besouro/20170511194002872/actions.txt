@@ -38,3 +38,11 @@ RefactoringAction 1494526870833 TestBowling.java ADD int secondTh FIELD
 RefactoringAction 1494526872908 TestBowling.java RENAME secondTh=>int secondThrow FIELD
 EditAction 1494527878254 TestBowling.java 314 1 2 1
 EditAction 1494527878722 BowlingGame.java 777 4 2 0
+CompilationAction 1494527879159 BowlingGame.java
+CompilationAction 1494527892310 BowlingGame.java
+UnitTestCaseAction 1494527898255 TestBowling.java OK
+UnitTestSessionAction 1494527898255 TestBowling.java OK
+RefactoringAction 1494527924385 TestBowling.java ADD void testIfIs FIELD
+RefactoringAction 1494527928519 TestBowling.java RENAME testIfIs=>void testIfIsSpare FIELD
+RefactoringAction 1494527930580 TestBowling.java RENAME testIfIsSpare=>void testIfIsSpare() METHOD
+EditAction 1494527970501 TestBowling.java 393 2 3 2

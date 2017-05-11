@@ -17,5 +17,10 @@ public class TestBowling {
 	
 		
 	}
+	
+	@Test
+	public void testIfIsSpare(){
+		assertFalse(frame.isSpare());
+	}
 
 }
