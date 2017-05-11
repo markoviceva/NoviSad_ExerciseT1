@@ -1,0 +1,19 @@
+FileOpenedAction 1494524402996 BowlingGame.java 708 4 1 0
+FileOpenedAction 1494524531071 Frame.java 671 6 7 0
+FileOpenedAction 1494524552595 TestBowling.java 165 1 1 0
+RefactoringAction 1494525629094 BowlingGame.java ADD Frame frame FIELD
+RefactoringAction 1494525633698 BowlingGame.java ADD void newFrame() METHOD
+RefactoringAction 1494525648360 BowlingGame.java REMOVE newFrame() METHOD
+RefactoringAction 1494525662479 Frame.java ADD Frame() METHOD
+RefactoringAction 1494525800095 BowlingGame.java REMOVE frame FIELD
+RefactoringAction 1494525839652 BowlingGame.java ADD ptivate Frame FIELD
+RefactoringAction 1494525841182 BowlingGame.java RENAME Frame=>ptivate Frame() METHOD
+RefactoringAction 1494525843718 BowlingGame.java RENAME Frame()=>ptivate Frame FIELD
+RefactoringAction 1494525849284 BowlingGame.java RENAME BowlingGame()=><initializer /1> null
+RefactoringAction 1494525858938 BowlingGame.java RENAME <initializer /1>=>BowlingGame() METHOD
+RefactoringAction 1494525870044 BowlingGame.java RENAME BowlingGame()=><initializer /1> null
+RefactoringAction 1494525874096 BowlingGame.java RENAME <initializer /1>=>BowlingGame() METHOD
+RefactoringAction 1494525879619 BowlingGame.java RENAME Frame=>Frame frame FIELD
+RefactoringAction 1494525892197 BowlingGame.java REMOVE frame FIELD
+RefactoringAction 1494526711355 TestBowling.java RENAME test()=>void testIfIsStrike() METHOD
+EditAction 1494526712743 TestBowling.java 175 1 1 0
