@@ -18,3 +18,4 @@ RefactoringAction 1494525892197 BowlingGame.java REMOVE frame FIELD
 RefactoringAction 1494526711355 TestBowling.java RENAME test()=>void testIfIsStrike() METHOD
 EditAction 1494526712743 TestBowling.java 175 1 1 0
 EditAction 1494526713478 BowlingGame.java 719 4 1 0
+EditAction 1494526713837 Frame.java 960 7 7 0
