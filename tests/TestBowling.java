@@ -21,7 +21,7 @@ public class TestBowling {
 	@Test
 	public void testIfIsSpare(){
 		firstThrow=5;
-		secondThrow=5;
+		secondThrow=4;
 		frame=new Frame(firstThrow,secondThrow);
 		assertFalse(frame.isSpare());
 	}
