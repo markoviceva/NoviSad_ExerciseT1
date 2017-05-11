@@ -58,3 +58,8 @@ UnitTestCaseAction 1494528088270 TestBowling.java FAIL
 UnitTestSessionAction 1494528088270 TestBowling.testIfIsStrike FAIL
 EditAction 1494528178412 TestBowling.java 478 2 7 2
 EditAction 1494528178740 BowlingGame.java 777 4 2 0
+CompilationAction 1494528179239 BowlingGame.java
+CompilationAction 1494528189239 BowlingGame.java
+UnitTestCaseAction 1494528194870 TestBowling.java OK
+UnitTestSessionAction 1494528194870 TestBowling.testIfIsSpare OK
+EditAction 1494528206167 TestBowling.java 477 2 7 2

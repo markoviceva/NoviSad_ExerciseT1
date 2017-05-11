@@ -11,7 +11,7 @@ public class TestBowling {
 
 	@Test
 	public void testIfIsStrike() {
-		firstThrow=10;
+		firstThrow=9;
 		frame=new Frame(firstThrow,secondThrow);
 		assertFalse(frame.isStrike());
 	
