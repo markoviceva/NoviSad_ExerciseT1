@@ -7,12 +7,12 @@ public class TestBowling {
 	private int firstThrow;
 	private int secondThrow;
 	
-	Frame frame=new Frame(firstThrow,secondThrow);
+	Frame frame;
 
 	@Test
 	public void testIfIsStrike() {
 		firstThrow=10;
-		
+		frame=new Frame(firstThrow,secondThrow);
 		assertFalse(frame.isStrike());
 	
 		
