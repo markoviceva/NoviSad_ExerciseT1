@@ -63,3 +63,6 @@ CompilationAction 1494528189239 BowlingGame.java
 UnitTestCaseAction 1494528194870 TestBowling.java OK
 UnitTestSessionAction 1494528194870 TestBowling.testIfIsSpare OK
 EditAction 1494528206167 TestBowling.java 477 2 7 2
+UnitTestCaseAction 1494528206947 TestBowling.java OK
+UnitTestSessionAction 1494528206947 TestBowling.testIfIsStrike OK
+EditAction 1494528222157 TestBowling.java 477 2 7 2
