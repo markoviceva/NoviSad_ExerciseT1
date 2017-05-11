@@ -69,3 +69,11 @@ EditAction 1494528222157 TestBowling.java 477 2 7 2
 EditAction 1494528731816 BowlingGame.java 852 4 3 0
 EditAction 1494528869933 BowlingGame.java 925 4 3 0
 EditAction 1494528870292 TestBowling.java 483 2 7 2
+RefactoringAction 1494528905770 TestBowling.java ADD void test FIELD
+RefactoringAction 1494528910389 TestBowling.java RENAME test=>void testOver FIELD
+RefactoringAction 1494528912978 TestBowling.java RENAME testOver=>void testIf FIELD
+RefactoringAction 1494528916598 TestBowling.java RENAME testIf=>void testIfIsMoreFrames FIELD
+RefactoringAction 1494528920201 TestBowling.java RENAME testIfIsMoreFrames=>void testIfIsMoreFrames() METHOD
+RefactoringAction 1494528953681 TestBowling.java ADD import java.util.ArrayList IMPORT
+RefactoringAction 1494528953681 TestBowling.java ADD import java.util.List IMPORT
+EditAction 1494529073591 TestBowling.java 1167 3 19 2

@@ -1,5 +1,8 @@
 import static org.junit.Assert.*;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import org.junit.Test;
 
 public class TestBowling {
@@ -26,6 +29,23 @@ public class TestBowling {
 		assertFalse(frame.isSpare());
 	}
 	
-	
+	@Test (expected=BowlingException.class)
+	public void testIfIsMoreFrames(){
+		List<Frame> f = new ArrayList<Frame>();
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		f.add(new Frame(firstThrow,secondThrow));
+		
+		
+		
+	}
 
 }
