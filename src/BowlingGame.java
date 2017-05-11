@@ -31,8 +31,6 @@ public class BowlingGame {
 		if(frames.get(9).isStrike()||frames.get(9).isSpare()){
 			bonus=new Frame(firstThrow,secondThrow);
 			
-		
-			
 		}
 		//to be implemented
 		
